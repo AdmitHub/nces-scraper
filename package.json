@@ -1,0 +1,10 @@
+{
+  "name": "nacac-scraper",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.45.0",
+    "underscore": "~1.5.2"
+  }
+}
